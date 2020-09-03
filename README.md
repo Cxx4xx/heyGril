@@ -83,13 +83,13 @@
 ##代码框
 
 Javascript:  
-
+```javascript
     //为啥代码就不行呢  
     function cao():void  
     {  
       console.log("Hello world!");
     }
-
+```
 ---
 
 ##分割线
